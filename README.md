@@ -1,2 +1,2 @@
 # lotto
-a short program to randomly pick 6 unique digits.
+A short program to randomly pick 6 unique digits.
