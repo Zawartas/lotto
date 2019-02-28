@@ -15,7 +15,7 @@ int main()
         std::cout << it << " ";
 
     cout << "Koniec programu\n";
-    
+
     cout << "Ale czy na pewno?\n\n";
     cout << "Ale czy na pewno, na pewno, na pewno?\n";
 
