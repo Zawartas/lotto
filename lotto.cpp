@@ -15,6 +15,8 @@ int main()
         std::cout << it << " ";
 
     cout << "Koniec programu\n";
+    
+    cout << "Ale czy na pewno?\n";
 
     return 0;
 }
