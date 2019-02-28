@@ -14,5 +14,7 @@ int main()
     for(auto &it: zbior)
         std::cout << it << " ";
 
+    cout << "Koniec programu\n";
+
     return 0;
 }
