@@ -16,7 +16,7 @@ int main()
 
     cout << "Koniec programu\n";
     
-    cout << "Ale czy na pewno?\n";
+    cout << "Ale czy na pewno?\n\n";
 
     return 0;
 }
