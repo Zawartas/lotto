@@ -14,10 +14,5 @@ int main()
     for(auto &it: zbior)
         std::cout << it << " ";
 
-    cout << "Koniec programu\n";
-
-    cout << "Ale czy na pewno?\n\n";
-    cout << "Ale czy na pewno, na pewno, na pewno?\n";
-
     return 0;
 }
